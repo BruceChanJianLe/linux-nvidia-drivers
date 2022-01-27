@@ -18,3 +18,6 @@ sudo ubuntu-drivers autoinstall
 # Alternative, you can install the drivers you want
 sudo apt install nvidia-470
 ```
+
+## Reference
+[link](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux)
